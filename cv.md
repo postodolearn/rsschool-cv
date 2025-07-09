@@ -20,3 +20,15 @@ I'm starting to learn front-end development
 ## Skills
 
 At the moment I don't have any programming skills that I would consider worthy of adding, if they appear I will update the list
+
+## Work experience
+
+I have no experience in this industry at the moment
+
+## Education
+
+This is my first course
+
+## English language skills
+
+I understand spoken and written language well, but my writing or communication skills are rather weak
