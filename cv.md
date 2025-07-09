@@ -9,3 +9,9 @@
 - Discord: postodo;
 
 ## About Me
+
+I'm starting to learn front-end development
+Plans:
+
+- Finish the course
+- Improve my English
