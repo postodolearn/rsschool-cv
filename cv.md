@@ -1,7 +1,5 @@
 # Svyatoslav Kusnetsov
 
-===
-
 ## Contacts
 
 - Location: Russia, Saint-Petersburg;
@@ -9,3 +7,5 @@
 - email: postodolearn@gmail.com
 - GitHub: postodolearn;
 - Discord: postodo;
+
+## About Me
