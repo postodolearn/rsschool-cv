@@ -1,0 +1,10 @@
+.contacts {
+  color: var(--color-main);
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.contact-info {
+  margin: var(--list-margin);
+}

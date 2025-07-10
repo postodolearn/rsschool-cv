@@ -3,6 +3,7 @@
   position: relative;
   text-align: center;
   padding: 0 0 70px 0;
+  color: var(--color-main);
 }
 
 .about-me-img {
@@ -16,7 +17,7 @@
 .about-me-name {
   font-size: 45px;
   font-weight: 700;
-  color: var(--color-main);
+
   margin-bottom: 20px;
 }
 
@@ -24,4 +25,6 @@
   font-size: var(--font-size-description-desctop);
   font-weight: 500;
   color: var(--color-main);
+  width: 500px;
+  text-align: justify;
 }

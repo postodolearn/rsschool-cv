@@ -1,0 +1,13 @@
+.skills {
+  color: var(--color-main);
+  display: flex;
+  justify-content: center;
+}
+
+.skills-list {
+  margin-bottom: 10px;
+}
+
+.skills-info {
+  margin: var(--list-margin);
+}

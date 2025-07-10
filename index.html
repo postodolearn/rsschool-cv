@@ -19,7 +19,6 @@
             <li>
               <a href="#about-me-id" class="navigation-link">About Me</a>
             </li>
-            <!-- TODO contact+skills - ul/ol -->
             <li>
               <a href="#contacts-id" class="navigation-link">Contacts</a>
             </li>
@@ -42,12 +41,82 @@
         </nav>
       </div>
     </header>
-    <main>
-      <section class="about-me">
+    <main class="main">
+      <section class="about-me" id="about-me-id">
         <div class="container">
           <img src="assets/webp/profile-picture.webp" alt="picture of me" class="about-me-img" />
           <h1 class="about-me-name">Svyatoslav Kuznetsov</h1>
-          <p class="about-me-description">I’m starting to learn front-end development</p>
+          <h2 class="about-me-title">About me</h2>
+          <p class="about-me-description">
+            I just started learning front-end development, I can say that this is my first independent experience, I
+            will try to complete all course tasks.
+          </p>
+        </div>
+      </section>
+      <section class="contacts" id="contacts-id">
+        <div class="container">
+          <h2>Contacts</h2>
+          <ul class="contacts-list">
+            <li class="contact-info">Location: Russia, Saint-Petersburg</li>
+            <li class="contact-info">Email: postodolearn@gmail.com</li>
+            <li class="contact-info">GitHub: postodolearn</li>
+            <li class="contact-info">Discord: postodo</li>
+          </ul>
+        </div>
+      </section>
+      <section class="skills" id="skills-id">
+        <div class="container">
+          <h2>Skills I want to learn</h2>
+          <ul class="skills-list">
+            <li class="skills-info">HTML</li>
+            <li class="skills-info">CSS</li>
+            <li class="skills-info">JavaScript</li>
+            <li class="skills-info">JavaScript frameworks</li>
+            <li class="skills-info">Typescript</li>
+            <li class="skills-info">Improve your English language skills</li>
+          </ul>
+        </div>
+      </section>
+      <section class="code-example" id="code-example-id">
+        <div class="container">
+          <h2 class="code-example-title">Code example</h2>
+          <pre class="code-example-pre">
+            <code class="code-example-code"> .contacts {
+              color: var(--color-main);
+              display: flex;
+              justify-content: center;
+              margin-bottom: 20px;
+            }</code>
+            </pre>
+        </div>
+      </section>
+      <section class="projects" id="projects-id">
+        <div class="container">
+          <h2 class="projects-title">Projects</h2>
+          <a href="https://postodolearn.github.io/rsschool-cv/cv" class="projects-link" target="_blank"
+            >CV Markdown page</a
+          >
+        </div>
+      </section>
+      <section class="education" id="education-id">
+        <div class="container">
+          <h2 class="education-title">Education</h2>
+          <ol class="education-list">
+            <li class="education-info">RS-School - JS/FE Pre-School 2025Q2 (studying this)</li>
+            <li class="education-info">RS-School - JavaScript/Front-end 2025Q3 (waiting for the launch)</li>
+          </ol>
+        </div>
+      </section>
+      <section class="language" id="language-id">
+        <div class="container">
+          <h2 class="language-title">Language skills</h2>
+          <ul class="language-list">
+            <li class="language-info">
+              English - I understand spoken and written language well, but my writing or communication skills are rather
+              weak
+            </li>
+            <li class="language-info">Russian - native</li>
+          </ul>
         </div>
       </section>
     </main>

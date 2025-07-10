@@ -1,0 +1,23 @@
+.projects {
+  color: var(--color-main);
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.projects-link {
+  display: inline-block;
+  padding: 7px 16px;
+  width: 250px;
+  height: 42px;
+  border-radius: 21px;
+  text-decoration: none;
+  background-color: var(--font-color-grey);
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--bg-main);
+}
+
+.projects-link:hover {
+  background-color: var(--color-main);
+}

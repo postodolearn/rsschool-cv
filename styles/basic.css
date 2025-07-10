@@ -15,15 +15,23 @@ ul {
   padding: 0;
 }
 
+ol {
+  margin: 0;
+  padding: 0;
+}
+
 a {
   text-decoration: none;
   color: unset;
 }
 
 h1,
-h2,
 p {
   margin: 0;
+}
+
+h2 {
+  width: 400px;
 }
 
 .container {

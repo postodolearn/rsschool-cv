@@ -1,0 +1,5 @@
+.code-example {
+  color: var(--color-main);
+  display: flex;
+  justify-content: center;
+}
