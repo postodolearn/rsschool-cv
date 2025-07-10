@@ -1,2 +1,12 @@
 :root {
+  --bg-main: #f9e3cb;
+  --bg-main-green: #e9f6d2;
+
+  --color-main-black: #070707;
+
+  --font-color-grey: #4b415a;
+
+  --font-size-title-desctop: 34px;
+  --font-size-description-desctop: 18px;
+  --font-size-description-mobile: 14px;
 }

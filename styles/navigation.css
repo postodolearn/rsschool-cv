@@ -1,0 +1,25 @@
+.header {
+  padding: 25px 15px 0;
+}
+
+.navigation {
+  width: 100%;
+}
+
+.navigation-list {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navigation-link {
+  color: var(--font-color-grey);
+  font-size: var(--font-size-description-desctop);
+  font-weight: 700;
+  position: relative;
+}
+
+.navigation-link:hover {
+  color: rgb(174, 70, 70);
+}

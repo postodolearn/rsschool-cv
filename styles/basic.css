@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  scroll-behavior: smooth;
+  font-family: "Roboto", sans-serif;
+  background-color: var(--bg-main);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 970px;
+  padding: 0 10px;
+}
