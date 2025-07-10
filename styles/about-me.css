@@ -22,7 +22,7 @@
 }
 
 .about-me-description {
-  font-size: var(--font-size-description-desctop);
+  font-size: var(--font-size-description);
   font-weight: 500;
   color: var(--color-main);
   width: 500px;

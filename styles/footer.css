@@ -1,0 +1,14 @@
+.footer-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 30px;
+  margin: 0 auto;
+}
+
+.footer-date {
+  font-size: var(--font-size-description);
+  font-weight: 500;
+  color: var(--color-main);
+}

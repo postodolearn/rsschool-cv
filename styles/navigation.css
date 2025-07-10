@@ -15,7 +15,7 @@
 
 .navigation-link {
   color: var(--font-color-grey);
-  font-size: var(--font-size-description-desctop);
+  font-size: var(--font-size-description);
   font-weight: 700;
   position: relative;
 }
