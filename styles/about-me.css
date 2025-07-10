@@ -1,0 +1,27 @@
+.about-me {
+  display: flex;
+  position: relative;
+  text-align: center;
+  padding: 0 0 70px 0;
+}
+
+.about-me-img {
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+  margin: 45px 0 25px 0;
+  border-radius: 35%;
+}
+
+.about-me-name {
+  font-size: 45px;
+  font-weight: 700;
+  color: var(--color-main);
+  margin-bottom: 20px;
+}
+
+.about-me-description {
+  font-size: var(--font-size-description-desctop);
+  font-weight: 500;
+  color: var(--color-main);
+}
